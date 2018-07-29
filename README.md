@@ -2,7 +2,9 @@
 This is a photobooth. It works on a Raspberry Pi 3, with a Camera Module. It was present as an attraction at the week of Computer Science (scientific divulgation for high school students) of my University. The idea is that the visitors could take a souvenir photo. After taking the picture, it puts a frame around it, and uploads it to a web server. Then, it shows a QRCODE with the URL.
 
 ### Captures
-![confirm dialog](img/photobooth_preview_1.jpg "photo confirm dialog")
+![confirm dialog](img/photobooth_preview_1.jpg "photo confirm dialog") | ![photobooth-01](https://user-images.githubusercontent.com/8515632/43363140-de7266e8-92d3-11e8-887e-8c4da89c81ad.jpg)
+------------ | ------------
+![photobooth-02](https://user-images.githubusercontent.com/8515632/43363141-de982400-92d3-11e8-838d-a951e1188f88.jpg) | ![photobooth-03](https://user-images.githubusercontent.com/8515632/43363142-debc5cc6-92d3-11e8-9fc3-b619a4f7136e.jpg)
 
 ## Requirements:
 * Raspberry Pi 3 B with Raspbian and Camera Module.
