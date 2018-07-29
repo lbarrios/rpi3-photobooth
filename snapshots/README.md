@@ -1,0 +1,1 @@
+This folder is intended to store all the snapshots taken by the photobooth (accepted or not).

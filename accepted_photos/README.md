@@ -1,0 +1,1 @@
+This folder is intended to store the photos that will be synched to the web-server.
