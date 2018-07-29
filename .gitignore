@@ -1,0 +1,4 @@
+__pycache__
+snapshots/*.jpg
+accepted_photos/*.jpg
+
